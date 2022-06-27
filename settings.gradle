@@ -13,4 +13,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "LottoNumberGenerator"
-include ':app'
+include ':lottonumbergenerator'
