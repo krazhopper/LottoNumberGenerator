@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         TextView lottoNbrTextView = (TextView) findViewById(R.id.lottoNbrTextView);
 
         fiveFiftyBtn.setOnClickListener(view -> {
-
+            lottoNbrTextView.setText("Hallo Welt");
         });
 
         twoTwelveBtn.setOnClickListener(view -> {
